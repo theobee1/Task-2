@@ -8,6 +8,6 @@ This repository contains comprehensive data analysis and calculations conducted 
 - Average revenue generated from each sale of 'Paseo': $176,295.36
 - Number of sales made in the Government and Midmarket segment: 400
 - Total revenue generated from the sales of 'Montana' in Canada: $2,982,114.50
-- Country, Segment, and Month of the highest unit of goods sold: [Add Calculation Result Here]
+- Country, Segment, and Month of the highest unit of goods sold: USA, Government, April
 - Total profit made in December: $2,717,329.98
 
